@@ -1,0 +1,12 @@
+a {
+  color: #eee;
+  text-decoration: none;
+}
+
+.active {
+  color: coral;
+}
+
+.active-link {
+  color: lightgreen;
+}
