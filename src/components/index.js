@@ -1,2 +1,6 @@
 export { default as Navbar } from './navbar'
 export { default as Layout } from './layout'
+export { default as PokemonListSkeleton } from './pokemon-list-skeleton'
+export { default as PokemonList } from './pokemon-list'
+export { default as Pagination } from './pagination'
+export { default as Modal } from './modal'
